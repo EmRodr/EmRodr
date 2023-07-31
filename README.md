@@ -87,3 +87,12 @@
 <br>
 <p align='center'><b>Thank you for visiting</b></p>
 <p align='center'><img src='https://komarev.com/ghpvc/?username=EmRodr'/></p>
+
+<br>
+<br>
+<br>
+<div align='center'>
+<img src='./spamton.gif' width='40px' height='45px'/>
+<a href="#readme-top">back to top</a>
+<img src='./spamton.gif' width='40px' height='45px'/>
+</div>
