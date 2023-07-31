@@ -28,7 +28,7 @@
         <br>
       > Build 10+ projects
         <br>
-      > Gather experience in C++, C#, JavaScript, Typescript Python and Ruby
+      > Gather experience in C++, C#, Go, JavaScript, Typescript, Python and Ruby
         <br>
       > Know more about frameworks such as React, Vue, Ruby on Rails, Angular, Node.js, Django and ASP.NET
         <br>
